@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.suunnos.fi/</loc>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/"/>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/palvelut</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/palvelut"/>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/yritys</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/yritys"/>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/kuvia</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/kuvia"/>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/referenssit</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/referenssit"/>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/yhteystiedot</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/yhteystiedot"/>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/lvi-suunnittelu</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/lvi-suunnittelu"/>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/kvv-valvonta</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/kvv-valvonta"/>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.suunnos.fi/jatevesisuunnitelma</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.suunnos.fi/jatevesisuunnitelma"/>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>
